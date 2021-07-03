@@ -13,8 +13,7 @@ update: 2021.7.3 15:41
 
 #ck 优先读取【JDCookies.txt】 文件内的ck  再到 ENV的 变量 JD_COOKIE='ck1&ck2' 最后才到脚本内 cookies=ck
 cookies = ''
-qjd_zlzh = ['Your JD_User', '买买买', '东哥']
-
+qjd_zlzh = ['jd_5a739915ba17d', 'jd_6fec793069158', 'jd_unVFMSBHGoKK', 'jd_652574454d6a3', 'jd_55bb512d87897', 'jd_62deba6aa3f81']
 # 建议调整一下的参数
 # UA 可自定义你的，注意格式
 UserAgent = 'jdappiPhone10.0.413.7ca6eb91a888be488f194b9d9216cf711dd1b221anetwork/wifiADID/8679C062-A41A-4A25-88F1-50A7A3EEF34Amodel/iPhone8,1addressid/3723896896appBuild/167707jdSupportDarkMode/0Mozilla/5.0 (iPhone CPU iPhone OS 13_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148supportJDSHWK/1'
