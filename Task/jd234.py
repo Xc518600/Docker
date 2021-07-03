@@ -13,7 +13,7 @@ update: 2021.7.3 15:41
 
 #ck 优先读取【JDCookies.txt】 文件内的ck  再到 ENV的 变量 JD_COOKIE='ck1&ck2' 最后才到脚本内 cookies=ck
 cookies = ''
-qjd_zlzh = ['Your JD_User', '买买买', '东哥']
+qjd_zlzh = ['jd_5a739915ba17d', 'jd_6fec793069158', 'jd_unVFMSBHGoKK', 'jd_652574454d6a3', 'jd_55bb512d87897', 'jd_62deba6aa3f81']
 
 # 建议调整一下的参数
 # UA 可自定义你的，注意格式
